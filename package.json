@@ -1,5 +1,5 @@
 {
-  "name": "@storybook/html-strip-unwanted-markup",
+  "name": "storybook-addon-html-strip-unwanted-markup",
   "version": "0.0.0",
   "private": true,
   "workspaces": {
