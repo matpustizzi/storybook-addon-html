@@ -1,5 +1,6 @@
 {
   "name": "@storybook/html-strip-unwanted-markup",
+  "version": "0.0.0",
   "private": true,
   "workspaces": {
     "packages": [
