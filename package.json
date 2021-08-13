@@ -1,4 +1,5 @@
 {
+  "name": "@storybook/html-strip-unwanted-markup",
   "private": true,
   "workspaces": {
     "packages": [
